@@ -10,15 +10,15 @@
  #sri, #wmi, #wmic, #gui, #vbs, #automatitions
 
 ## Description
-Get most important network adapter configuration infos.
+Get the most important network adapter configuration Infos.
 
-## Resurces
-To made this program I used this resurce(s):
+## Resources
+To make this program I used this resource(s):
 
   - [https://docs.microsoft.com/en-us/windows/win32/cimwin32prov/win32-networkadapterconfiguration](https://docs.microsoft.com/en-us/windows/win32/cimwin32prov/win32-networkadapterconfiguration)
 
 ## Required
-  - Windows (I tryed with version 1909 build 18363.815)
+  - Windows (I tried with version 1909 build 18363.815)
 
 ---
 
@@ -39,7 +39,7 @@ To made this program I used this resurce(s):
      - cscript.exe getnetall.vbs
 
 #### Attention:
-If you did't put cscript(.exe), the program will open a lots of windows.
+If you didn't put cscript(.exe), the program will open lots of windows.
 
 ---
 
