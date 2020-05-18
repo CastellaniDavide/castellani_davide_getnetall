@@ -1,0 +1,643 @@
+Start time: 18/05/2020 08:14:44
+Running: getinfo.vbs
+Testing computer: .
+ - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+ - Testing: [00000001] Realtek PCIe GbE Family Controller
+ - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+ - Testing: [00000003] Bluetooth Device (Personal Area Network)
+ - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000006] WAN Miniport (SSTP)
+ - Testing: [00000007] WAN Miniport (IKEv2)
+ - Testing: [00000008] WAN Miniport (L2TP)
+ - Testing: [00000009] WAN Miniport (PPTP)
+ - Testing: [00000010] WAN Miniport (PPPOE)
+ - Testing: [00000011] WAN Miniport (IP)
+ - Testing: [00000012] WAN Miniport (IPv6)
+ - Testing: [00000013] WAN Miniport (Network Monitor)
+ - Testing: [00000014] RAS Async Adapter
+ - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+End time: 18/05/2020 08:14:44
+
+Start time: 18/05/2020 08:14:45
+Running: getinfo.vbs
+Testing computer: .
+ - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+ - Testing: [00000001] Realtek PCIe GbE Family Controller
+ - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+ - Testing: [00000003] Bluetooth Device (Personal Area Network)
+ - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000006] WAN Miniport (SSTP)
+ - Testing: [00000007] WAN Miniport (IKEv2)
+ - Testing: [00000008] WAN Miniport (L2TP)
+ - Testing: [00000009] WAN Miniport (PPTP)
+ - Testing: [00000010] WAN Miniport (PPPOE)
+ - Testing: [00000011] WAN Miniport (IP)
+ - Testing: [00000012] WAN Miniport (IPv6)
+ - Testing: [00000013] WAN Miniport (Network Monitor)
+ - Testing: [00000014] RAS Async Adapter
+ - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+End time: 18/05/2020 08:14:45
+
+Start time: 18/05/2020 08:14:46
+Running: getinfo.vbs
+Testing computer: .
+ - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+ - Testing: [00000001] Realtek PCIe GbE Family Controller
+ - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+ - Testing: [00000003] Bluetooth Device (Personal Area Network)
+ - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000006] WAN Miniport (SSTP)
+ - Testing: [00000007] WAN Miniport (IKEv2)
+ - Testing: [00000008] WAN Miniport (L2TP)
+ - Testing: [00000009] WAN Miniport (PPTP)
+ - Testing: [00000010] WAN Miniport (PPPOE)
+ - Testing: [00000011] WAN Miniport (IP)
+ - Testing: [00000012] WAN Miniport (IPv6)
+ - Testing: [00000013] WAN Miniport (Network Monitor)
+ - Testing: [00000014] RAS Async Adapter
+ - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+End time: 18/05/2020 08:14:46
+
+Start time: 18/05/2020 08:16:20
+Running: getinfo.vbs
+Testing computer: .
+ - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+ - Testing: [00000001] Realtek PCIe GbE Family Controller
+ - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+ - Testing: [00000003] Bluetooth Device (Personal Area Network)
+ - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000006] WAN Miniport (SSTP)
+ - Testing: [00000007] WAN Miniport (IKEv2)
+ - Testing: [00000008] WAN Miniport (L2TP)
+ - Testing: [00000009] WAN Miniport (PPTP)
+ - Testing: [00000010] WAN Miniport (PPPOE)
+ - Testing: [00000011] WAN Miniport (IP)
+ - Testing: [00000012] WAN Miniport (IPv6)
+ - Testing: [00000013] WAN Miniport (Network Monitor)
+ - Testing: [00000014] RAS Async Adapter
+ - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+End time: 18/05/2020 08:16:20
+
+Start time: 18/05/2020 08:18:50
+Running: getnetall.vbs
+Testing computer: .
+ - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+ - Testing: [00000001] Realtek PCIe GbE Family Controller
+ - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+ - Testing: [00000003] Bluetooth Device (Personal Area Network)
+ - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000006] WAN Miniport (SSTP)
+ - Testing: [00000007] WAN Miniport (IKEv2)
+ - Testing: [00000008] WAN Miniport (L2TP)
+ - Testing: [00000009] WAN Miniport (PPTP)
+ - Testing: [00000010] WAN Miniport (PPPOE)
+ - Testing: [00000011] WAN Miniport (IP)
+ - Testing: [00000012] WAN Miniport (IPv6)
+ - Testing: [00000013] WAN Miniport (Network Monitor)
+ - Testing: [00000014] RAS Async Adapter
+ - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+End time: 18/05/2020 08:18:51
+
+Start time: 18/05/2020 08:19:04
+Running: getnetall.vbs
+Testing computer: .
+ - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+ - Testing: [00000001] Realtek PCIe GbE Family Controller
+ - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+ - Testing: [00000003] Bluetooth Device (Personal Area Network)
+ - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000006] WAN Miniport (SSTP)
+ - Testing: [00000007] WAN Miniport (IKEv2)
+ - Testing: [00000008] WAN Miniport (L2TP)
+ - Testing: [00000009] WAN Miniport (PPTP)
+ - Testing: [00000010] WAN Miniport (PPPOE)
+ - Testing: [00000011] WAN Miniport (IP)
+ - Testing: [00000012] WAN Miniport (IPv6)
+ - Testing: [00000013] WAN Miniport (Network Monitor)
+ - Testing: [00000014] RAS Async Adapter
+ - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+End time: 18/05/2020 08:19:04
+
+Start time: 18/05/2020 08:19:05
+Running: getnetall.vbs
+Testing computer: .
+ - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+ - Testing: [00000001] Realtek PCIe GbE Family Controller
+ - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+ - Testing: [00000003] Bluetooth Device (Personal Area Network)
+ - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000006] WAN Miniport (SSTP)
+ - Testing: [00000007] WAN Miniport (IKEv2)
+ - Testing: [00000008] WAN Miniport (L2TP)
+ - Testing: [00000009] WAN Miniport (PPTP)
+ - Testing: [00000010] WAN Miniport (PPPOE)
+ - Testing: [00000011] WAN Miniport (IP)
+ - Testing: [00000012] WAN Miniport (IPv6)
+ - Testing: [00000013] WAN Miniport (Network Monitor)
+ - Testing: [00000014] RAS Async Adapter
+ - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+End time: 18/05/2020 08:19:05
+
+Start time: 18/05/2020 08:19:07
+Running: getinfo.vbs
+Testing computer: .
+ - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+ - Testing: [00000001] Realtek PCIe GbE Family Controller
+ - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+ - Testing: [00000003] Bluetooth Device (Personal Area Network)
+ - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000006] WAN Miniport (SSTP)
+ - Testing: [00000007] WAN Miniport (IKEv2)
+ - Testing: [00000008] WAN Miniport (L2TP)
+ - Testing: [00000009] WAN Miniport (PPTP)
+ - Testing: [00000010] WAN Miniport (PPPOE)
+ - Testing: [00000011] WAN Miniport (IP)
+ - Testing: [00000012] WAN Miniport (IPv6)
+ - Testing: [00000013] WAN Miniport (Network Monitor)
+ - Testing: [00000014] RAS Async Adapter
+ - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+End time: 18/05/2020 08:19:07
+
+Start time: 18/05/2020 08:19:10
+Running: getnetall.vbs
+Testing computer: .
+ - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+ - Testing: [00000001] Realtek PCIe GbE Family Controller
+ - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+ - Testing: [00000003] Bluetooth Device (Personal Area Network)
+ - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000006] WAN Miniport (SSTP)
+ - Testing: [00000007] WAN Miniport (IKEv2)
+ - Testing: [00000008] WAN Miniport (L2TP)
+ - Testing: [00000009] WAN Miniport (PPTP)
+ - Testing: [00000010] WAN Miniport (PPPOE)
+ - Testing: [00000011] WAN Miniport (IP)
+ - Testing: [00000012] WAN Miniport (IPv6)
+ - Testing: [00000013] WAN Miniport (Network Monitor)
+ - Testing: [00000014] RAS Async Adapter
+ - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+End time: 18/05/2020 08:19:11
+
+Start time: 18/05/2020 08:22:55
+Running: getinfo.vbs
+Testing computer: .
+ - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+ - Testing: [00000001] Realtek PCIe GbE Family Controller
+ - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+ - Testing: [00000003] Bluetooth Device (Personal Area Network)
+ - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000006] WAN Miniport (SSTP)
+ - Testing: [00000007] WAN Miniport (IKEv2)
+ - Testing: [00000008] WAN Miniport (L2TP)
+ - Testing: [00000009] WAN Miniport (PPTP)
+ - Testing: [00000010] WAN Miniport (PPPOE)
+ - Testing: [00000011] WAN Miniport (IP)
+ - Testing: [00000012] WAN Miniport (IPv6)
+ - Testing: [00000013] WAN Miniport (Network Monitor)
+ - Testing: [00000014] RAS Async Adapter
+ - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+ - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+ - Testing: [00000001] Realtek PCIe GbE Family Controller
+ - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+ - Testing: [00000003] Bluetooth Device (Personal Area Network)
+ - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+ - Testing: [00000006] WAN Miniport (SSTP)
+ - Testing: [00000007] WAN Miniport (IKEv2)
+ - Testing: [00000008] WAN Miniport (L2TP)
+ - Testing: [00000009] WAN Miniport (PPTP)
+ - Testing: [00000010] WAN Miniport (PPPOE)
+ - Testing: [00000011] WAN Miniport (IP)
+ - Testing: [00000012] WAN Miniport (IPv6)
+ - Testing: [00000013] WAN Miniport (Network Monitor)
+ - Testing: [00000014] RAS Async Adapter
+ - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+End time: 18/05/2020 08:22:55
+
+Start time: 18/05/2020 08:24:26
+Running: getinfo.vbs
+Testing computer: .
+ - Istruction: Select * from Win32_NetworkAdapterConfiguration
+   - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+   - Testing: [00000001] Realtek PCIe GbE Family Controller
+   - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+   - Testing: [00000003] Bluetooth Device (Personal Area Network)
+   - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+   - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+   - Testing: [00000006] WAN Miniport (SSTP)
+   - Testing: [00000007] WAN Miniport (IKEv2)
+   - Testing: [00000008] WAN Miniport (L2TP)
+   - Testing: [00000009] WAN Miniport (PPTP)
+   - Testing: [00000010] WAN Miniport (PPPOE)
+   - Testing: [00000011] WAN Miniport (IP)
+   - Testing: [00000012] WAN Miniport (IPv6)
+   - Testing: [00000013] WAN Miniport (Network Monitor)
+   - Testing: [00000014] RAS Async Adapter
+   - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+ - Istruction: Select * from Win32_NetworkAdapterConfiguration
+   - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+   - Testing: [00000001] Realtek PCIe GbE Family Controller
+   - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+   - Testing: [00000003] Bluetooth Device (Personal Area Network)
+   - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+   - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+   - Testing: [00000006] WAN Miniport (SSTP)
+   - Testing: [00000007] WAN Miniport (IKEv2)
+   - Testing: [00000008] WAN Miniport (L2TP)
+   - Testing: [00000009] WAN Miniport (PPTP)
+   - Testing: [00000010] WAN Miniport (PPPOE)
+   - Testing: [00000011] WAN Miniport (IP)
+   - Testing: [00000012] WAN Miniport (IPv6)
+   - Testing: [00000013] WAN Miniport (Network Monitor)
+   - Testing: [00000014] RAS Async Adapter
+   - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+End time: 18/05/2020 08:24:26
+
+Start time: 18/05/2020 08:24:28
+Running: getnetall.vbs
+Testing computer: .
+ - Istruction: Select * from Win32_NetworkAdapterConfiguration
+   - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+   - Testing: [00000001] Realtek PCIe GbE Family Controller
+   - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+   - Testing: [00000003] Bluetooth Device (Personal Area Network)
+   - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+   - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+   - Testing: [00000006] WAN Miniport (SSTP)
+   - Testing: [00000007] WAN Miniport (IKEv2)
+   - Testing: [00000008] WAN Miniport (L2TP)
+   - Testing: [00000009] WAN Miniport (PPTP)
+   - Testing: [00000010] WAN Miniport (PPPOE)
+   - Testing: [00000011] WAN Miniport (IP)
+   - Testing: [00000012] WAN Miniport (IPv6)
+   - Testing: [00000013] WAN Miniport (Network Monitor)
+   - Testing: [00000014] RAS Async Adapter
+   - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+End time: 18/05/2020 08:24:28
+
+Start time: 18/05/2020 08:24:29
+Running: getinfo.vbs
+Testing computer: .
+ - Istruction: Select * from Win32_NetworkAdapterConfiguration
+   - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+   - Testing: [00000001] Realtek PCIe GbE Family Controller
+   - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+   - Testing: [00000003] Bluetooth Device (Personal Area Network)
+   - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+   - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+   - Testing: [00000006] WAN Miniport (SSTP)
+   - Testing: [00000007] WAN Miniport (IKEv2)
+   - Testing: [00000008] WAN Miniport (L2TP)
+   - Testing: [00000009] WAN Miniport (PPTP)
+   - Testing: [00000010] WAN Miniport (PPPOE)
+   - Testing: [00000011] WAN Miniport (IP)
+   - Testing: [00000012] WAN Miniport (IPv6)
+   - Testing: [00000013] WAN Miniport (Network Monitor)
+   - Testing: [00000014] RAS Async Adapter
+   - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+ - Istruction: Select * from Win32_NetworkAdapterConfiguration
+   - Testing: [00000000] Microsoft Kernel Debug Network Adapter
+   - Testing: [00000001] Realtek PCIe GbE Family Controller
+   - Testing: [00000002] Intel(R) Dual Band Wireless-AC 3168
+   - Testing: [00000003] Bluetooth Device (Personal Area Network)
+   - Testing: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+   - Testing: [00000005] Microsoft Wi-Fi Direct Virtual Adapter
+   - Testing: [00000006] WAN Miniport (SSTP)
+   - Testing: [00000007] WAN Miniport (IKEv2)
+   - Testing: [00000008] WAN Miniport (L2TP)
+   - Testing: [00000009] WAN Miniport (PPTP)
+   - Testing: [00000010] WAN Miniport (PPPOE)
+   - Testing: [00000011] WAN Miniport (IP)
+   - Testing: [00000012] WAN Miniport (IPv6)
+   - Testing: [00000013] WAN Miniport (Network Monitor)
+   - Testing: [00000014] RAS Async Adapter
+   - Testing: [00000016] VirtualBox Host-Only Ethernet Adapter
+End time: 18/05/2020 08:24:30
+
+Start time: 18/05/2020 08:37:36
+Running: getinfo.vbs
+Testing computer: .
+ - Istruction: Select * from Win32_NetworkClient
+   - Testing: Workstation
+ - Istruction: Select * from Win32_NetworkProtocol
+   - Testing: Hyper-V
+   - Testing: AF_UNIX
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: L2CAP
+   - Testing: RfComm
+End time: 18/05/2020 08:37:36
+
+Start time: 18/05/2020 08:39:07
+Running: getinfo.vbs
+Testing computer: .
+ - Istruction: Select * from Win32_NetworkClient
+   - Testing: Workstation
+ - Istruction: Select * from Win32_NetworkProtocol
+   - Testing: Hyper-V
+   - Testing: AF_UNIX
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: L2CAP
+   - Testing: RfComm
+End time: 18/05/2020 08:39:07
+
+Start time: 18/05/2020 08:41:08
+Running: getinfo.vbs
+Testing computer: .
+ - Istruction: Select * from Win32_NetworkClient
+   - Testing: Workstation
+ - Istruction: Select * from Win32_NetworkProtocol
+   - Testing: Hyper-V
+   - Testing: AF_UNIX
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: L2CAP
+   - Testing: RfComm
+End time: 18/05/2020 08:41:09
+
+Start time: 2020-05-18 12:26:48.385808
+Workstation
+End time: 2020-05-18 12:26:48.415690
+Total time: 0:00:00.029882
+
+Start time: 2020-05-18 12:29:53.068252
+Running: getinfo.py
+Start time: 2020-05-18 12:30:11.836140
+Running: getinfo.py
+ - Istruction: Win32_NetworkClient
+   - Workstation
+End time: 2020-05-18 12:30:11.943853
+Total time: 0:00:00.107713
+
+Start time: 2020-05-18 12:30:26.120926
+Running: getinfo.py
+ - Istruction: Win32_NetworkClient
+   - Workstation
+End time: 2020-05-18 12:30:26.144863
+Total time: 0:00:00.023937
+
+Start time: 2020-05-18 12:31:41.004859
+Running: getinfo.py
+ - Istruction: Win32_NetworkClient
+   - Workstation
+End time: 2020-05-18 12:31:41.157413
+Total time: 0:00:00.152554
+
+Start time: 2020-05-18 12:35:17.776890
+Running: getinfo.py
+ - Istruction: Win32_NetworkProtocol
+   - Hyper-V
+   - AF_UNIX
+   - Tcpip
+   - Tcpip
+   - Tcpip
+   - Tcpip
+   - RSVP
+   - RSVP
+   - RSVP
+   - RSVP
+   - L2CAP
+   - RfComm
+End time: 2020-05-18 12:35:18.038193
+Total time: 0:00:00.261303
+
+Start time: 2020-05-18 12:36:25.997233
+Running: getinfo.py
+ - Istruction: Win32_NetworkClient
+   - Workstation
+ - Istruction: Win32_NetworkProtocol
+   - Hyper-V
+   - AF_UNIX
+   - Tcpip
+   - Tcpip
+   - Tcpip
+   - Tcpip
+   - RSVP
+   - RSVP
+   - RSVP
+   - RSVP
+   - L2CAP
+   - RfComm
+End time: 2020-05-18 12:36:26.182742
+Total time: 0:00:00.185509
+
+Start time: 18/05/2020 14:21:51
+Running: getinfo.vbs
+Start time: 18/05/2020 14:22:19
+Running: getinfo.vbs
+Start time: 18/05/2020 14:23:08
+Running: getinfo.vbs
+Start time: 18/05/2020 14:23:19
+Running: getinfo.vbs
+Start time: 18/05/2020 14:23:39
+Running: getinfo.vbs
+Start time: 18/05/2020 14:23:47
+Running: getinfo.vbs
+Testing computer: .
+ - Istruction: Select * from Win32_NetworkClient
+   - Testing: Workstation
+ - Istruction: Select * from Win32_NetworkProtocol
+   - Testing: Hyper-V
+   - Testing: AF_UNIX
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: L2CAP
+   - Testing: RfComm
+End time: 18/05/2020 14:23:47
+
+Start time: 18/05/2020 14:25:06
+Running: getinfo.vbs
+Testing computer: .
+ - Istruction: Select * from Win32_NetworkClient
+   - Testing: Workstation
+ - Istruction: Select * from Win32_NetworkProtocol
+   - Testing: Hyper-V
+   - Testing: AF_UNIX
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: L2CAP
+   - Testing: RfComm
+End time: 18/05/2020 14:25:06
+
+Start time: 18/05/2020 14:30:36
+Running: getinfo.vbs
+Testing computer: .
+ - Istruction: Select * from Win32_NetworkClient,Select * from Win32_NetworkProtocol
+Start time: 18/05/2020 14:30:48
+Running: getinfo.vbs
+Testing computer: .
+ - Istruction: Select * from Win32_NetworkClient,Select * from Win32_NetworkProtocol
+Start time: 18/05/2020 14:31:31
+Running: getinfo.vbs
+Testing computer: .
+ - Istruction: Select * from Win32_NetworkClient
+   - Testing: Workstation
+ - Istruction: Select * from Win32_NetworkProtocol
+   - Testing: Hyper-V
+Start time: 18/05/2020 14:32:12
+Running: getinfo.vbs
+Testing computer: .
+ - Istruction: Select * from Win32_NetworkClient
+   - Testing: Workstation
+ - Istruction: Select * from Win32_NetworkProtocol
+   - Testing: Hyper-V
+   - Testing: AF_UNIX
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: Tcpip
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: RSVP
+   - Testing: L2CAP
+   - Testing: RfComm
+End time: 18/05/2020 14:32:12
+
+Opened all files
+Opened all files
+Opened all files
+csv now initialized
+Start time: 2020-05-18 14:38:43.541084
+Running: getinfo.py
+ - Istruction: Win32_NetworkClient
+   - Workstation
+ - Istruction: Win32_NetworkProtocol
+   - Hyper-V
+   - AF_UNIX
+   - Tcpip
+   - Tcpip
+   - Tcpip
+   - Tcpip
+   - RSVP
+   - RSVP
+   - RSVP
+   - RSVP
+   - L2CAP
+   - RfComm
+End time: 2020-05-18 14:38:43.811946
+Total time: 0:00:00.270862
+
+Opened all files
+csv now initialized
+Start time: 2020-05-18 14:40:48.470938
+Running: getinfo.py
+ - Istruction: Win32_NetworkClient
+   - Workstation
+ - Istruction: Win32_NetworkProtocol
+   - Hyper-V
+   - AF_UNIX
+   - Tcpip
+   - Tcpip
+   - Tcpip
+   - Tcpip
+   - RSVP
+   - RSVP
+   - RSVP
+   - RSVP
+   - L2CAP
+   - RfComm
+End time: 2020-05-18 14:40:48.742692
+Total time: 0:00:00.272747
+
+Opened all files
+csv now initialized
+Start time: 2020-05-18 14:43:10.262857
+Running: getinfo.py
+ - Istruction: Win32_NetworkClient
+   - Workstation
+ - Istruction: Win32_NetworkProtocol
+   - Hyper-V
+Opened all files
+csv now initialized
+Start time: 2020-05-18 14:43:43.496790
+Running: getinfo.py
+ - Istruction: Win32_NetworkClient
+   - Workstation
+ - Istruction: Win32_NetworkProtocol
+   - Hyper-V
+Opened all files
+csv now initialized
+Start time: 2020-05-18 14:45:09.865487
+Running: getinfo.py
+ - Istruction: Win32_NetworkClient
+   - Workstation
+ - Istruction: Win32_NetworkProtocol
+   - Hyper-V
+   - AF_UNIX
+   - Tcpip
+   - Tcpip
+   - Tcpip
+   - Tcpip
+   - RSVP
+   - RSVP
+   - RSVP
+   - RSVP
+   - L2CAP
+   - RfComm
+End time: 2020-05-18 14:45:10.401099
+Total time: 0:00:00.535612
+
+Opened all files
+csv now initialized
+Start time: 2020-05-18 14:47:45.024037
+Running: getinfo.py
+ - Istruction: Win32_NetworkClient
+   - Workstation
+ - Istruction: Win32_NetworkProtocol
+   - Hyper-V
+   - AF_UNIX
+   - Tcpip
+   - Tcpip
+   - Tcpip
+   - Tcpip
+   - RSVP
+   - RSVP
+   - RSVP
+   - RSVP
+   - L2CAP
+   - RfComm
+End time: 2020-05-18 14:47:45.585533
+Total time: 0:00:00.561496
+

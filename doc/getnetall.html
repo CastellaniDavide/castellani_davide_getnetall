@@ -1,23 +1,32 @@
 <h1 id="getnetall">getnetall</h1>
-<p><img src="https://img.shields.io/badge/author-Castellani%20Davide-green?style=flat" alt="Author" /> <img src="https://img.shields.io/badge/version-01.01-blue?style=flat" alt="Version" /> <img src="https://img.shields.io/github/v/release/CastellaniDavide/castellani_davide_getnetall?label=lastest%20relase" alt="GitHub release (latest by date)" /> <img src="https://img.shields.io/badge/language-vbs-yellowgreen?style=flat" alt="Language vbs" /> <img src="https://img.shields.io/badge/platform%20supported-Windows%2010-blue?style=flat" alt="Platform supported" /> <a href="https://github.com/CastellaniDavide/castellani_davide_getnetall"><img src="https://img.shields.io/badge/on%20GitHub-True-green?style=flat&amp;logo=github" alt="On GitHub" /></a></p>
+<p><img src="https://img.shields.io/badge/author-Castellani%20Davide-green?style=flat" alt="Author" /> <img src="https://img.shields.io/badge/version-v02.01-blue?style=flat" alt="Version" /> <img src="https://img.shields.io/github/v/release/CastellaniDavide/castellani_davide_getnetall?label=lastest%20relase" alt="GitHub release (latest by date)" /> <img src="https://img.shields.io/badge/languages-vbs%20&amp;%20python3-yellowgreen?style=flat" alt="Languages vbs" /> <img src="https://img.shields.io/badge/platform%20supported-Windows%2010-blue?style=flat" alt="Platform supported" /> <a href="https://github.com/CastellaniDavide/castellani_davide_getnetall"><img src="https://img.shields.io/badge/on%20GitHub-True-green?style=flat&amp;logo=github" alt="On GitHub" /></a></p>
 <h2 id="tags">Tags</h2>
-<p>#sri, #wmi, #wmic, #gui, #vbs, #automatitions</p>
+<p>#sri, #wmi, #wmic, #gui, #vbs, #python, #python3, #automatitions</p>
 <h2 id="description">Description</h2>
-<p>Get the most important network adapter configuration Infos.</p>
+<p>Get the most important network adapter configuration Infos. To see this you can use the new website <a href="https://castellanidavide.github.io/getnetall/">https://castellanidavide.github.io/getnetall/</a></p>
 <h2 id="resources">Resources</h2>
 <p>To make this program I used this resource(s):</p>
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/windows/win32/cimwin32prov/win32-networkadapterconfiguration">https://docs.microsoft.com/en-us/windows/win32/cimwin32prov/win32-networkadapterconfiguration</a></li>
+<li><a href="https://docs.microsoft.com/en-us/previous-versions//aa394084(v=vs.85)?redirectedfrom=MSDN">https://docs.microsoft.com/en-us/previous-versions//aa394084(v=vs.85)?redirectedfrom=MSDN</a></li>
+<li><a href="https://docs.microsoft.com/it-it/windows/win32/cimwin32prov/win32-networkclient">https://docs.microsoft.com/it-it/windows/win32/cimwin32prov/win32-networkclient</a></li>
+<li><a href="https://docs.microsoft.com/it-it/windows/win32/cimwin32prov/win32-networkprotocol">https://docs.microsoft.com/it-it/windows/win32/cimwin32prov/win32-networkprotocol</a></li>
 </ul>
 <h2 id="required">Required</h2>
 <ul>
 <li>Windows (I tried with version 1909 build 18363.815)</li>
+<li>Python3 (I tried with version 3.7 64bit)
+<ul>
+<li>wmi package to know how can you install it, you can click <a href="https://pypi.org/project/WMI/">here</a></li>
+</ul></li>
 </ul>
 <hr />
 <h3 id="directories-structure">Directories structure</h3>
 <ul>
 <li>bin
 <ul>
+<li>getinfo.py</li>
+<li>getinfo.vbs</li>
 <li>getnetall.vbs</li>
 </ul></li>
 <li>doc
@@ -25,10 +34,33 @@
 <li>README.md</li>
 <li>getnetall.html (made using pandoc)</li>
 </ul></li>
+<li>flussi
+<ul>
+<li>getinfo_client.csv</li>
+<li>getinfo_server.csv</li>
+<li>getnetall.csv</li>
+</ul></li>
+<li>log
+<ul>
+<li>log.log</li>
+</ul></li>
 </ul>
 <hr />
 <h3 id="execution-examples">Execution examples</h3>
 <ul>
+<li>getinfo.py (tested on PowerShell &amp; Command Promt &amp; File Explorer)
+<ul>
+<li>./getinfo.py</li>
+<li>getinfo.py</li>
+<li>double click on the program</li>
+</ul></li>
+<li>getinfo.vbs (tested on PowerShell &amp; Command Promt)
+<ul>
+<li>cscript ./getinfo.vbs</li>
+<li>cscript getinfo.vbs</li>
+<li>cscript.exe ./getinfo.vbs</li>
+<li>cscript.exe getinfo.vbs</li>
+</ul></li>
 <li>getnetall.vbs (tested on PowerShell &amp; Command Promt)
 <ul>
 <li>cscript ./getnetall.vbs</li>
@@ -38,11 +70,62 @@
 </ul></li>
 </ul>
 <h4 id="attention">Attention:</h4>
-<p>If you didn’t put cscript(.exe), the program will open lots of windows.</p>
+<p>If you didn’t put cscript(.exe) in the <em>.vbs programs, the programs will open lots of windows. For the </em>.py program(s) you can’t put cscript(.exe), and it won’t open a lot of windows.</p>
 <hr />
 <h2 id="changelog">Changelog</h2>
 <ul>
+<li><a href="#02.01_2020-5-18">02.01_2020-5-18</a></li>
 <li><a href="#01.01_2020-5-10">01.01_2020-5-10</a></li>
+</ul>
+<hr />
+<h3 id="02.01_2020-5-18">02.01_2020-5-18</h3>
+<ul>
+<li><h4 id="added">Added</h4>
+<ul>
+<li>now the README is online: <a href="https://castellanidavide.github.io/getnetall/">https://castellanidavide.github.io/getnetall/</a></li>
+<li>getinfo files
+<ul>
+<li>now you can know more about the Network settings (client &amp; server) in your PC</li>
+</ul></li>
+<li>log file</li>
+<li>all outputs are pushed on the screen and in the csv files
+<ul>
+<li><table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">program name</th>
+<th style="text-align: center;">getinfo_client.csv</th>
+<th style="text-align: center;">getinfo_server.csv</th>
+<th style="text-align: center;">getnetall.csv</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">getinfo.py</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">getinfo.vbs</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">getnetall.vbs</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">X</td>
+</tr>
+</tbody>
+</table></li>
+</ul></li>
+</ul></li>
+<li><h4 id="changed">Changed</h4>
+<ul>
+<li>now manage the log file</li>
+</ul></li>
 </ul>
 <hr />
 <h3 id="01.01_2020-5-10">01.01_2020-5-10</h3>
@@ -51,7 +134,8 @@
 <li>the result are printed on the PC screen</li>
 </ul>
 <hr />
-<p>Made by Castellani Davide If you have any problem please contact us:</p>
+<p>Made by Castellani Davide If you have any problem please contact me:</p>
 <ul>
 <li><a href="mailto:help@castellanidavide.it">help@castellanidavide.it</a></li>
+<li><a href="https://github.com/CastellaniDavide/getnetall/issues">GitHub Issue</a></li>
 </ul>

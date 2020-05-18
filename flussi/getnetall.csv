@@ -1,0 +1,17 @@
+Caption,Description,SettingID,DatabasePath,DNSHostName,DomainDNSRegistrationEnabled,FullDNSRegistrationEnabled,MACAddress,ServiceName,TcpWindowSize
+[00000000] Microsoft Kernel Debug Network Adapter,Microsoft Kernel Debug Network Adapter,{BEFCC879-C0E3-499D-9FD1-D332DA6C6F36},,,,,,kdnic,
+[00000001] Realtek PCIe GbE Family Controller,Realtek PCIe GbE Family Controller #2,{311EB310-8834-4E18-9838-918586F2E2B1},%SystemRoot%\System32\drivers\etc,DavideCastellani,False,True,10:E7:C6:A9:A4:F7,rt640x64,64404
+[00000002] Intel(R) Dual Band Wireless-AC 3168,Intel(R) Dual Band Wireless-AC 3168,{3AC68588-FBA5-4807-9920-C7DB304C08CA},%SystemRoot%\System32\drivers\etc,DavideCastellani,False,True,68:EC:C5:33:83:7B,Netwtw04,64404
+[00000003] Bluetooth Device (Personal Area Network),Bluetooth Device (Personal Area Network),{0C226BC1-3D01-4159-86AF-CAFF0DAA09B0},,,,,68:EC:C5:33:83:7F,BthPan,
+[00000004] Microsoft Wi-Fi Direct Virtual Adapter,Microsoft Wi-Fi Direct Virtual Adapter,{C2568ED6-72EA-4EF1-B7A8-6F40E158F3B7},,,,,68:EC:C5:33:83:7C,vwifimp,
+[00000005] Microsoft Wi-Fi Direct Virtual Adapter,Microsoft Wi-Fi Direct Virtual Adapter #2,{CE710709-F77F-4D3F-B4A2-893A098A17B6},%SystemRoot%\System32\drivers\etc,DavideCastellani,False,True,6A:EC:C5:33:83:7B,vwifimp,64404
+[00000006] WAN Miniport (SSTP),WAN Miniport (SSTP),{216B8DC8-4181-44EB-BC67-CF217707E213},,,,,,RasSstp,
+[00000007] WAN Miniport (IKEv2),WAN Miniport (IKEv2),{DE8576CA-16FF-4464-8309-CE0F28DC9CCC},,,,,,RasAgileVpn,
+[00000008] WAN Miniport (L2TP),WAN Miniport (L2TP),{FBF389B6-5059-465C-848D-CC78BB98C311},,,,,,Rasl2tp,
+[00000009] WAN Miniport (PPTP),WAN Miniport (PPTP),{9E423952-F551-4482-A8AD-4CB75B99D553},,,,,,PptpMiniport,
+[00000010] WAN Miniport (PPPOE),WAN Miniport (PPPOE),{A6BD0BF4-F170-49AE-8F64-464AD165015F},,,,,,RasPppoe,
+[00000011] WAN Miniport (IP),WAN Miniport (IP),{581EC5F6-2BB5-431D-967A-C45B6FF154CE},,,,,00:FA:20:52:41:53,NdisWan,
+[00000012] WAN Miniport (IPv6),WAN Miniport (IPv6),{89D52568-9284-4E6D-B51B-17E77829B7CD},,,,,04:3B:20:52:41:53,NdisWan,
+[00000013] WAN Miniport (Network Monitor),WAN Miniport (Network Monitor),{97382B18-E9DD-46AA-8175-55168E5436B3},,,,,06:91:20:52:41:53,NdisWan,
+[00000014] RAS Async Adapter,RAS Async Adapter,{B76B4AD5-7303-42C6-AEAC-2475ECEA49BE},,,,,,AsyncMac,
+[00000016] VirtualBox Host-Only Ethernet Adapter,VirtualBox Host-Only Ethernet Adapter,{3102DE7A-90D7-4148-B7C8-89FB8ED36498},%SystemRoot%\System32\drivers\etc,DavideCastellani,False,True,0A:00:27:00:00:07,VBoxNetAdp,64404

@@ -1,0 +1,13 @@
+Caption,Description,GuaranteesDelivery,GuaranteesSequencing,MaximumAddressSize,MaximumMessageSize,Name,SupportsConnectData,SupportsEncryption,SupportsEncryption,SupportsGracefulClosing,SupportsGuaranteedBandwidth,SupportsQualityofService
+Hyper-V,Hyper-V RAW,True,True,36,0,Hyper-V RAW,False,False,False,True,False,False
+AF_UNIX,AF_UNIX,True,True,110,0,AF_UNIX,False,False,False,True,False,False
+Tcpip,@%SystemRoot%\system32\drivers\tcpip.sys,-10001,True,True,16,0,MSAFD Tcpip [TCP/IP],False,False,False,True,False,False
+Tcpip,@%SystemRoot%\system32\drivers\tcpip.sys,-10001,False,False,16,65527,MSAFD Tcpip [UDP/IP],False,False,False,False,False,False
+Tcpip,@%SystemRoot%\system32\drivers\tcpip.sys,-10001,True,True,28,0,MSAFD Tcpip [TCP/IPv6],False,False,False,True,False,False
+Tcpip,@%SystemRoot%\system32\drivers\tcpip.sys,-10001,False,False,28,65527,MSAFD Tcpip [UDP/IPv6],False,False,False,False,False,False
+RSVP,RSVP TCPv6 Service Provider,True,True,28,0,RSVP TCPv6 Service Provider,False,True,True,True,False,True
+RSVP,RSVP TCP Service Provider,True,True,16,0,RSVP TCP Service Provider,False,True,True,True,False,True
+RSVP,RSVP UDPv6 Service Provider,False,False,28,65527,RSVP UDPv6 Service Provider,False,True,True,False,False,True
+RSVP,RSVP UDP Service Provider,False,False,16,65527,RSVP UDP Service Provider,False,True,True,False,False,True
+L2CAP,MSAFD L2CAP [Bluetooth],True,True,30,0,MSAFD L2CAP [Bluetooth],False,False,False,False,False,False
+RfComm,@tdibth.inf,%RFCOMM.DisplayName%;Bluetooth Device (RFCOMM Protocol TDI),True,True,30,0,MSAFD RfComm [Bluetooth],False,False,False,True,False,False
